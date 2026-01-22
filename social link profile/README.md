@@ -4,7 +4,7 @@ A responsive social profile card built using **HTML and CSS**.
 The project focuses on clean UI design and mobile-first responsive layout.
 
 ## 📸 Preview
-![preveiew](preview.jpg)
+![preview](preview.jpg)
 
 ## ✨ Features
 - Responsive design (works on mobile, tablet, and desktop)
@@ -23,5 +23,5 @@ The project focuses on clean UI design and mobile-first responsive layout.
 - Centering content using Flexbox  
 - Writing cleaner and reusable CSS  
 
-##👤 Author
+## 👤 Author
 Jatin Kumar
